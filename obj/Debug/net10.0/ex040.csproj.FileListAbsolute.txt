@@ -1,0 +1,14 @@
+C:\Curso C#\ex040\bin\Debug\net10.0\ex040.exe
+C:\Curso C#\ex040\bin\Debug\net10.0\ex040.deps.json
+C:\Curso C#\ex040\bin\Debug\net10.0\ex040.runtimeconfig.json
+C:\Curso C#\ex040\bin\Debug\net10.0\ex040.dll
+C:\Curso C#\ex040\bin\Debug\net10.0\ex040.pdb
+C:\Curso C#\ex040\obj\Debug\net10.0\ex040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\ex040\obj\Debug\net10.0\ex040.AssemblyInfoInputs.cache
+C:\Curso C#\ex040\obj\Debug\net10.0\ex040.AssemblyInfo.cs
+C:\Curso C#\ex040\obj\Debug\net10.0\ex040.csproj.CoreCompileInputs.cache
+C:\Curso C#\ex040\obj\Debug\net10.0\ex040.dll
+C:\Curso C#\ex040\obj\Debug\net10.0\refint\ex040.dll
+C:\Curso C#\ex040\obj\Debug\net10.0\ex040.pdb
+C:\Curso C#\ex040\obj\Debug\net10.0\ex040.genruntimeconfig.cache
+C:\Curso C#\ex040\obj\Debug\net10.0\ref\ex040.dll
